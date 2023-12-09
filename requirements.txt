@@ -1,0 +1,9 @@
+scikit-learn==1.2.2
+xgboost==2.0.2
+lightgbm==4.1.0
+numpy
+pandas
+imblearn
+mlflow
+hyperopt
+catboost
