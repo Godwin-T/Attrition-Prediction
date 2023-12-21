@@ -1,0 +1,7 @@
+pandas
+lightgbm
+flask
+gunicorn
+scikit-learn
+#prefect
+#docker run -p 5080:9696 -v "$(dirname "$(pwd)")/models:/app/model" -v "$(dirname "$(pwd)")/bct-data-summit/test.csv:/app/data.csv" attrition:1
